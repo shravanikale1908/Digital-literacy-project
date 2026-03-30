@@ -1,0 +1,15 @@
+Task5: Part B:
+Stay Safe Online – Checklist
+*  Use strong and unique passwords for all accounts 
+* Enable two-factor authentication (2FA) on important apps like email and banking 
+* Never share your OTP, passwords, or UPI PIN with anyone 
+* Always double-check UPI requests before approving payments (you don’t need a PIN to receive money) 
+* Avoid clicking on suspicious links from unknown messages or emails 
+* Keep your apps and phone software updated 
+* Use only trusted Wi-Fi networks; avoid public Wi-Fi for banking 
+* Log out from accounts on shared or public devices 
+* Be cautious of fake job offers, internship scams, or prize messages 
+* Regularly check your bank transactions for unusual activity 
+* Report any cyber fraud immediately on the National Cyber Crime Portal (cybercrime.gov.in) 
+* Call the Cyber Crime Helpline: 1930 for urgent financial fraud complaints
+
